@@ -24,6 +24,13 @@ This project uses simulated, de-identified operational data over a three-month p
 - GitHub  
 - AI-assisted analysis
 
+## Screenshots
+The image below shows a sample table from the operational workflow dataset used
+in the Python-based analysis for this practicum project.
+
+![Sample Workflow Table](images/workflow_table.png)
+  
+
   ## Key Skills Demonstrated
 - Health informatics leadership and governance
 - Operational workflow and no-show analysis
