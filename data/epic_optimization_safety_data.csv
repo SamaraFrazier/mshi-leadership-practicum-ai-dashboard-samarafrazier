@@ -1,0 +1,5 @@
+date_submitted,department,request_type,priority_level,assigned_role,requires_epic_certification,linked_to_safety_event,resolution_status,resolution_time_days
+2025-01-03,Emergency Department,Safety,High,Nursing Leadership,No,Yes,Resolved,2
+2025-01-04,ICU,Optimization,Medium,IT Analyst,No,No,Resolved,5
+2025-01-05,Pharmacy,Workflow,High,Physician Champion,Yes,No,In Progress,
+2025-01-06,Med-Surg,Safety,High,IT Analyst,No,Yes,Resolved,1
